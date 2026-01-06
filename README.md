@@ -1,1 +1,1 @@
-A hands-on DevOps project focused on automated infrastructure provisioning using Bicep and Azure Pipelines. This repository demonstrates CI/CD best practices for deploying scalable Azure Compute resources.
+Repo containing material for self-taught Azure DevOps project: azurerm-pipeline, the purpose of hte project is to create a YAML pipeline that deploys a Windows virtual machine
