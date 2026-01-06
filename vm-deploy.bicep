@@ -49,8 +49,6 @@ resource vm 'Microsoft.Compute/virtualMachines@2023-07-01' = {
       adminUsername: adminUsername
       adminPassword: adminPassword
       windowsConfiguration: {
-        enableHotpatching: true
-        patchMode: 'AutomaticByPlatform'
       }
     }
     networkProfile: {
